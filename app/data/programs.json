@@ -1,0 +1,23 @@
+{
+  "programs": [
+    {
+      "slug": "ai",
+      "title": "Искусственный интеллект",
+      "source_pages": [
+        "https://abit.itmo.ru/program/master/ai",
+        "https://ai.itmo.ru/"
+      ],
+      "study_plan_pdf_hint": "Google Drive ссылка со страницы ai.itmo.ru → «Изучить учебный план»",
+      "notes": "Очная магистратура в online-формате вечерами; проектный подход; роли: ML Engineer, Data Engineer, AI Product Developer, Data Analyst"
+    },
+    {
+      "slug": "ai_product",
+      "title": "Управление ИИ-продуктами (AI Product)",
+      "source_pages": [
+        "https://abit.itmo.ru/program/master/ai_product"
+      ],
+      "study_plan_pdf_hint": "Ссылка «Скачать учебный план» на странице abit.itmo.ru (динамическая)",
+      "notes": "Комбинирует ИИ и продуктовый менеджмент; роли: AI Product Manager, AI Project Manager, AI Product Data Analyst"
+    }
+  ]
+}
